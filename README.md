@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjithamethmadu
-- 👀 I’m interested in Software development and data analysis.
+- 👀 I’m interested in Software development and Data Science Field.
 - 🌱 I’m currently learning at University of Kelaniya Srilanka.
 - 📫 How to reach me methmaduanjitha1@gmail.com.
 
