@@ -3,8 +3,7 @@
 
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Anjitha Methmadu</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjitha Methmadu Karunarathne</h1>
 <h3 align="center">Undergraduate 🎓 | Bsc.(Honours) in Statistics at UOK</h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -13,10 +12,6 @@
 - 📝 I regularly write articles on [https://medium.com/@methmaduanjitha1](https://medium.com/@methmaduanjitha1)
 
 - 📫 How to reach me **methmaduanjitha1@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
