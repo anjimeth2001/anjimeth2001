@@ -1,5 +1,7 @@
+<p align="center">
+    <picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 120px></picture>
 
-<picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Anjitha Methmadu</h1>
