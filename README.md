@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjitha Methmadu Karunarathne</h1>
 <h3 align="center">Undergraduate 🎓 | Bsc.(Honours) in Statistics at UOK</h3>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently Studing **at University of Kelaniya**
 
@@ -27,4 +26,8 @@
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<p align="center">
+   <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 </p>
