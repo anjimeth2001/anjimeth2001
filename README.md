@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjitha Methmadu Karunarathne</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Anjitha Methmadu Karunarathne</h1>
 <h3 align="center">Undergraduate 🎓 | Bsc.(Honours) in Statistics at UOK</h3>
 
 - 🌱 I’m currently Studing **at University of Kelaniya**
